@@ -1,5 +1,5 @@
 <script setup>
-import { defineProps, computed, toRefs } from 'vue'
+import { defineProps, computed } from 'vue'
 
 const props = defineProps({
   variant: {
